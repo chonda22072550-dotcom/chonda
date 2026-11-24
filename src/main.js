@@ -13,4 +13,3 @@ document.querySelector('#app').innerHTML = page()
 }
 window.addEventListener('hashchange', render)
 render()
-}
