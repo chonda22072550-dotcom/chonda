@@ -1,5 +1,5 @@
 import {HomePage} from './pages/home'
-import {Adminpage} from  './pages/admin'
+import {AdminPage} from  './pages/admin'
 
 const routes={
     '/': HomePage,
